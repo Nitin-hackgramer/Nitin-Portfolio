@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "ogl": "^0.0.41",
     "@hookform/resolvers": "^3.9.0",
     "@icons-pack/react-simple-icons": "github:icons-pack/react-simple-icons",
     "@next/swc-wasm-nodejs": "13.5.1",
